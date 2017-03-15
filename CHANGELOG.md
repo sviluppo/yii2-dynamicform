@@ -3,6 +3,7 @@ yii2-dynamicform change Log
 
 dev-master
 ----------
+- Bug Added pull request "fix select2 kartik errors with dynamic form #192" made by suite117
 - Enh: Updated composer.json ('symfony/dom-crawler': '~2.8|~3.0' and 'symfony/css-selector': '~2.8|~3.0').
 - Bug #40: Fixed dropDownList reset after insert item.
 - Enh #25: Added enhancements to better support for nested widgets.
