@@ -3,9 +3,9 @@ yii2-dynamicform fork
 
 Fix all dynamicform javascript errors with kartik select2
 
-[![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
+[![Latest Version](https://img.shields.io/github/release/sviluppo/yii2-dynamicform.svg?style=flat-square)](https://github.com/sviluppo/yii2-dynamicform/releases)
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://packagist.org/packages/wbraganca/yii2-dynamicform)
+[![Total Downloads](https://img.shields.io/packagist/dt/sviluppo/yii2-dynamicform.svg?style=flat-square)](https://packagist.org/packages/sviluppo/yii2-dynamicform)
 
 
 It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
@@ -51,7 +51,7 @@ Usage
 <?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-use wbraganca\dynamicform\DynamicFormWidget;
+use sviluppo\dynamicform\DynamicFormWidget;
 ?>
 
 <div class="customer-form">
@@ -380,7 +380,7 @@ class Model extends \yii\base\Model
 <?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-use wbraganca\dynamicform\DynamicFormWidget;
+use sviluppo\dynamicform\DynamicFormWidget;
 ?>
 
 <div class="customer-form">
